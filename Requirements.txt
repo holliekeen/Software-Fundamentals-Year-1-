@@ -1,0 +1,23 @@
+
+
+--------Please Read----------------------------
+How to Play Snake Game
+- Install Anaconda from https://www.anaconda.com/products/commercial-edition and open with the Spyder (Python 3.7)
+- Install Pygame Modules (see below for instructions)
+- Ensure Music File 'scene.wav' is saved locally and downloaded.
+
+Installation of Pygame:
+1. Once Anaconda commerical edition is downloaded, launch anaconda prompt window and input 'pip install pygame'
+2. Once download is successful, Launch Spyder
+
+Testing Pygame download:
+1. Import Pygame 
+2. Print (pygame.ver)
+
+if Pygame has installed correctly you will see the version display.
+
+Other Modules used:
+you will not need to download Sys or Random Modules they are already included in Python
+- Simply 'Import Sys'
+-'Import Random'
+--------Please Read----------------------------
